@@ -2,6 +2,10 @@
 
 **MindZap** é um aplicativo educacional desenvolvido como parte de um trabalho acadêmico, criado para proporcionar exercícios mentais de forma divertida e interativa. O aplicativo é projetado para estimular o cérebro dos usuários com jogos simples, como **Quick Math**, **Jogo da Memória**, **Simon** e **Wordle**.
 
+**Acesse a versão online:** [MindZap Web](https://mindzap--taq9p27o2h.expo.app/)
+
+**Faça o download do APK (instaldor Android):** [MindZap APK](https://expo.dev/artifacts/eas/bjmCCV2hMqw3kEHg71CH8P.apk)
+
 ## Funcionalidades
 
 - **Jogos Interativos:** Os jogos Quick Math, Jogo da Memória, Simon (sequência) e Wordle são incorporados ao aplicativo para promover o desenvolvimento cognitivo.
@@ -12,7 +16,6 @@
 
 - **React Native:** Framework utilizado para construir o aplicativo, permitindo a criação de aplicativos móveis nativos para **Android** e **iOS** com uma única base de código.  
   [Link React Native](https://reactnative.dev/)
-  
 - **Expo:** Ferramenta utilizada para facilitar o desenvolvimento de aplicativos React Native, proporcionando uma configuração mais rápida e simplificada.  
   [Link Expo](https://expo.dev/)
 
